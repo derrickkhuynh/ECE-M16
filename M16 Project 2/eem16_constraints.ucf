@@ -1,0 +1,11 @@
+NET "a" LOC = P41;
+NET "b" LOC = P27;
+NET "c" LOC = P22;
+NET "d" LOC = P10;
+NET "e" LOC = P6;
+NET "f" LOC = P140;
+NET "g" LOC = P127;
+NET "x0" LOC = P32;
+NET "x1" LOC = P11;
+NET "x2" LOC = P143;
+NET "x3" LOC = P131;
